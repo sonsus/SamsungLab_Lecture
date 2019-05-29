@@ -1,5 +1,5 @@
 # SamsungLab_Lecture
-삼성 NPEX 강의 실습자료 (13, 15 May 2019)
+삼성 NPEX 강의 실습자료 (13th, 15th May 2019 @ SNU Samsung Research Center)
 
 ### 유의할 점
 - 해당 코드의 하이퍼파라미터는 한 두 번의 시행만으로 찾아 최종 성능은 ~80% 정확도를 가진다
